@@ -1,6 +1,6 @@
 class Dataloader:
   def __init__(self):
-    return Dataloader_v1()
+    self.Dataloader_v1().draw_data()
   
   class Dataloader_v1:
     def __init__(self):
